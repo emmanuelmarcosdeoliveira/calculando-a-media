@@ -1,4 +1,4 @@
-![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png)
+![banner-github](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/blob/develop/images/banner%20template.png)
 [Descrição](#descrição) |
 [Funcionalidades](#funcionalidades) |
 [Screenshot ou Gif](#screenshots-ou-gif) |
@@ -27,7 +27,7 @@
 
 ## Screenshots ou gif
 
-![Claculando a Médias](https://github.com/emmanuelmarcosdeoliveira/calculadora-de-medias/blob/feature/readme/images/preview.jpg)
+![Caculando a Médias](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/blob/develop/images/preview.jpg)
 
 ## Demonstração
 
