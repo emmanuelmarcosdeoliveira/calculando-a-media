@@ -4,7 +4,7 @@
 [Screenshot ou Gif](#screenshots-ou-gif) |
 [Demostração](#demonstração) |
 [Deploy](#deploy) |
-[Aprendizados](#aprendizados) |
+[Aprendizados e Reforço](#aprendizados)|
 [Referencias](#referência) |
 
 # Projeto - Calculando a Média
@@ -31,14 +31,14 @@
 ## Demonstração
 
 Clique no link para acessar. <br>
-[Calculando Médias ](http://www.projeto-login-liard.vercel.app/)
+[Calculando a Média ](http://www)
 
 ## Deploy
 
 Para fazer o deploy desse projeto rode
 
 ```bash
- http://www.projeto-login-liard.vercel.app/
+ http://www
 ```
 
 ## Aprendizados e reforço
