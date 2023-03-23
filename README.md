@@ -15,15 +15,19 @@
 | ------------------ | ------------------------------------------------------------------------- |
 | Calculando a média | A proposta desse projeto foi criar uma página HTML para calcúlo de médias 
 
-1 - Passo é perguntar ao usuário qual o valor da nota média de aprovação.
+## Passo a passo para realizar o calculo da média.
+--- 
+| Descrição passo passo |
+|----------------------|
+|1 - **Passo** é perguntar ao usuário qual o valor da nota média de aprovação.
 
-2- Um campo para lançamentos da descrição de uma Atividade (**pondendo ser uma prova, ou um trabalho**).
+2- **Passo** Um campo para lançamentos da descrição de uma Atividade (**pondendo ser uma prova, ou um trabalho**).
 
-3 - Passo um campo para a inserção da **nota** obtida dessa atividade.
+3 - **Passo** um campo para a inserção da **nota** obtida dessa atividade.
 
-4- um **botão** para a inserção desses dados em uma tabela.
+4- **Passo** um **botão** para a inserção desses dados em uma tabela.
 
-5 - Ao Final, é feito calculos da médias das notas inseridas pelo usuário, Apresentando ao usuário se ele está **Aprovado** ou **Reprovado** de acordo com o valor de média de Aprovação. |
+5 - **Passo** Ao Final, é feito calculos da médias das notas inseridas pelo usuário, Apresentando ao usuário se ele está **Aprovado** ou **Reprovado** de acordo com o valor de média de Aprovação. |
 
 ## Funcionalidades
 
