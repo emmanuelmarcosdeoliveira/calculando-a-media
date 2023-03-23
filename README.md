@@ -13,7 +13,7 @@
 
 | Nome               | Desrição                                                                  |
 | ------------------ | ------------------------------------------------------------------------- |
-| Calculando a média | A proposta desse projeto foi criar uma página HTML para calcúlo de médias |
+| Calculando a média | A proposta desse projeto foi criar uma página HTML para calcúlo de médias 
 
 1 - Passo é perguntar ao usuário qual o valor da nota média de aprovação.
 
@@ -22,7 +22,8 @@
 3 - Passo um campo para a inserção da **nota** obtida dessa atividade.
 
 4- um **botão** para a inserção desses dados em uma tabela.
-5 - Ao Final, é feito calculos da médias das notas inseridas pelo usuário, Apresentando ao usuário se ele está **Aprovado** ou **Reprovado** de acordo com o valor de média de Aprovação.|
+
+5 - Ao Final, é feito calculos da médias das notas inseridas pelo usuário, Apresentando ao usuário se ele está **Aprovado** ou **Reprovado** de acordo com o valor de média de Aprovação. |
 
 ## Funcionalidades
 
