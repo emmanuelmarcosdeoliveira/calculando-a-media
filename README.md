@@ -7,13 +7,13 @@
 [Aprendizados](#aprendizados) |
 [Referencias](#referência) |
 
-# Projeto - Nome do projeto
+# Projeto - Calculando a Média
 
 ## Descrição:
 
 | Nome            |  Desrição|
 | --------------- | -------- |
-|Calculadora de médias | A proposta desse projeto foi criar uma página HTML para calcúlo de médias |  
+|Calculando a média | A proposta desse projeto foi criar uma página HTML para calcúlo de médias |  
 1 -  Passo é perguntar ao usuário qual o valor da nota média de aprovação. 
 2-   Um campo para lançamentos da descrição de uma Atividade (**pondendo ser uma prova, ou um trabalho**).
 3 -  Passo um campo para a inserção da **nota** obtida dessa atividade.
@@ -26,12 +26,12 @@
 
 ## Screenshots ou gif
 
-![Projeto-login](https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/imagens/tela-login.gif)
+![Claculando a Médias](https://github.com/emmanuelmarcosdeoliveira/calculadora-de-medias/blob/feature/readme/images/preview.jpg)
 
 ## Demonstração
 
 Clique no link para acessar. <br>
-[Projeto - login ](http://www.projeto-login-liard.vercel.app/)
+[Calculando Médias ](http://www.projeto-login-liard.vercel.app/)
 
 ## Deploy
 
@@ -41,14 +41,11 @@ Para fazer o deploy desse projeto rode
  http://www.projeto-login-liard.vercel.app/
 ```
 
-## Aprendizados
+## Aprendizados e reforço
 
 - Trabalhando com Formulários.
-- Media Queries.
-- Device Break Point.
-- imagens em degrade.
+- Trabalhando com Tabetas.
+- Funções em JavaScript
 
 ## Referência
-
-- [Estudonauta](https://www.estudonauta.com/)
-- [Curso em video](https://cursoemvideo.com)
+ - [EBAC](https://ebaconline.com.br/)
